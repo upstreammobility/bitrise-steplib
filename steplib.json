@@ -1,6 +1,6 @@
 {
   "steps": {
-    "xccov-to-sonarqube-generic-script": {
+    "xccov-to-sonarqube-generic": {
       "1.0.0": {
         "source": {
           "git": {
